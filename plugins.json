@@ -1,0 +1,112 @@
+[
+  {
+    "name": "FullHDFilmIzlesene",
+    "description": "Türkiyənin populyar film platformasından kontent izləmə plagini",
+    "url": "https://fullhdfilmizlesene.now",
+    "baseUrl": "https://fullhdfilmizlesene.now",
+    "version": 1,
+    "tvTypes": ["Movie", "TvSeries"],
+    "language": "tr",
+    "authors": ["Xüsusi Tərtibatçı"]
+  },
+  {
+    "name": "HDFilmCehennemi",
+    "description": "hdfilmcehennemi.nl saytından film və serial izləmə plagini",
+    "url": "https://hdfilmcehennemi.nl",
+    "baseUrl": "https://hdfilmcehennemi.nl",
+    "version": 1,
+    "tvTypes": ["Movie", "TvSeries"],
+    "language": "tr",
+    "authors": ["Xüsusi Tərtibatçı"]
+  },
+  {
+    "name": "HDFilmIzle",
+    "description": "hdfilmizle.to üzərindən yüksək keyfiyyətli filmlər",
+    "url": "https://hdfilmizle.to",
+    "baseUrl": "https://hdfilmizle.to",
+    "version": 1,
+    "tvTypes": ["Movie", "TvSeries"],
+    "language": "tr",
+    "authors": ["Xüsusi Tərtibatçı"]
+  },
+  {
+    "name": "UFilmIzle",
+    "description": "ufilmizle.com saytı üçün film yayımı plagini",
+    "url": "https://ufilmizle.com",
+    "baseUrl": "https://ufilmizle.com",
+    "version": 1,
+    "tvTypes": ["Movie", "TvSeries"],
+    "language": "tr",
+    "authors": ["Xüsusi Tərtibatçı"]
+  },
+  {
+    "name": "FilmKutusu",
+    "description": "filmkutusu.com onlayn kino izləmə plagini",
+    "url": "https://filmkutusu.com",
+    "baseUrl": "https://filmkutusu.com",
+    "version": 1,
+    "tvTypes": ["Movie", "TvSeries"],
+    "language": "tr",
+    "authors": ["Xüsusi Tərtibatçı"]
+  },
+  {
+    "name": "JetIzle",
+    "description": "jetizle.com sürətli film izləmə platforması",
+    "url": "https://jetizle.com",
+    "baseUrl": "https://jetizle.com",
+    "version": 1,
+    "tvTypes": ["Movie", "TvSeries"],
+    "language": "tr",
+    "authors": ["Xüsusi Tərtibatçı"]
+  },
+  {
+    "name": "TVSeans",
+    "description": "Azərbaycan dilində dublyaj və yerli filmlər platforması",
+    "url": "https://tvseans.az",
+    "baseUrl": "https://tvseans.az",
+    "version": 1,
+    "tvTypes": ["Movie", "TvSeries"],
+    "language": "az",
+    "authors": ["Xüsusi Tərtibatçı"]
+  },
+  {
+    "name": "AzeriKino",
+    "description": "azerikino.com Azərbaycanın arxiv və müasir kinoları",
+    "url": "https://azerikino.com",
+    "baseUrl": "https://azerikino.com",
+    "version": 1,
+    "tvTypes": ["Movie", "TvSeries"],
+    "language": "az",
+    "authors": ["Xüsusi Tərtibatçı"]
+  },
+  {
+    "name": "KinoRK",
+    "description": "kinork.com yerli, türk və azərbaycanca dublyaj filmlər",
+    "url": "https://kinork.com",
+    "baseUrl": "https://kinork.com",
+    "version": 1,
+    "tvTypes": ["Movie", "TvSeries"],
+    "language": "az",
+    "authors": ["Xüsusi Tərtibatçı"]
+  },
+  {
+    "name": "KinoBox",
+    "description": "kinobox.az onlayn yayım və film platforması",
+    "url": "https://kinobox.az",
+    "baseUrl": "https://kinobox.az",
+    "version": 1,
+    "tvTypes": ["Movie", "TvSeries"],
+    "language": "az",
+    "authors": ["Xüsusi Tərtibatçı"]
+  },
+  {
+    "name": "FlixAz",
+    "description": "flix.az onlayn kino və serial izləmə xidməti",
+    "url": "https://flix.az",
+    "baseUrl": "https://flix.az",
+    "version": 1,
+    "tvTypes": ["Movie", "TvSeries"],
+    "language": "az",
+    "authors": ["Xüsusi Tərtibatçı"]
+  }
+]
