@@ -1,0 +1,8 @@
+{
+  "name": "Aze-Turk Repo",
+  "description": "Azərbaycan və Türkiyə film saytları repozitoriyası",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://githubusercontent.com"
+  ]
+}
