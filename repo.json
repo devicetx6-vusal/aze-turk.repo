@@ -3,6 +3,6 @@
   "description": "Azərbaycan və Türkiyə film saytları repozitoriyası",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://githubusercontent.com"
+    ""https://raw.githubusercontent.com/devicetx6-vusal/aze-turk.repo/main/plugins.json"
   ]
 }
